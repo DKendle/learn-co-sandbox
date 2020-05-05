@@ -1,4 +1,4 @@
-D&D magic users rejoice! This gem will allow you to gain more insight into the types, levels, and elements associated with magic you have yet to encounter. 
+D&D magic users rejoice! This gem will allow you to research your favorite spells based on element, type, and level (more to come).
 # CliProject
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cli_project`. To experiment with that code, run `bin/console` for an interactive prompt.
